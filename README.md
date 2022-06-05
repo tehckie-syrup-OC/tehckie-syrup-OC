@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tehckie-syrup-OC
 - 👀 I’m interested in Web Designing, Android App Development and much more
-- 🌱 I’m currently learning Android App Development
+- 🌱 I’m currently learning Ethical Hacking
 - 📫 You can reach me via email: omkar.chakraborty2001@gmail.com
 
 <!---
